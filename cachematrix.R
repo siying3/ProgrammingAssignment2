@@ -42,3 +42,4 @@
             x$setinverse(inv)
             inv
     }
+	
